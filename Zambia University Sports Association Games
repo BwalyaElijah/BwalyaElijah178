@@ -9,7 +9,7 @@
   <body>
     <header class="site-header">
       <div class="container header-inner">
-        <a class="brand" href="#">ZUSA Open Games 2026</a>
+        <a class="brand" href="#">ZUSAs Open Games 2026</a>
         <button class="nav-toggle" aria-label="Open navigation">☰</button>
         <nav class="site-nav">
           <ul>
